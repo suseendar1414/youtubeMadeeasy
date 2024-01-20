@@ -1,8 +1,8 @@
 # youtubeMadeeasy
 
-# YouTube Assistant
 
-YouTube Assistant is a tool that combines Langchain and OpenAI to assist users in answering questions related to the transcript of a YouTube video.
+
+YouTubemadeeasy is a tool that combines Langchain and OpenAI to assist users in answering questions related to the transcript of a YouTube video.
 
 ## Overview
 
